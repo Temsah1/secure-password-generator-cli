@@ -44,3 +44,16 @@ You only need **Python 3.x** installed on your system.
 
 ## 🛠️ Built With
 * **Python 3** (Standard Libraries: `random`, `string`)
+
+Navigate to the project directory:
+
+Bash
+cd secure-password-generator-cli
+Run the script using Python 3:
+
+Bash
+python password_generator.py
+📄 Requirements
+Python 3.10 or higher.
+
+Built-in modules only (random, string). No external dependencies required!
