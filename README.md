@@ -17,21 +17,30 @@ A cryptographically secure, terminal-based Password Generator built with Python.
 secure-password-generator-cli/
 │
 ├── password_Generation.py   # Main application script
+├── .gitignore               # Ignores unnecessary system files
 └── README.md                # Project documentation
+```
 
-How to Run the Project
-Prerequisites
-You only need Python 3.x installed on your system.
+---
 
-Steps:
-Clone the repository:
+## 🚀 How to Run the Project
 
-Bash
-git clone [https://github.com/YOUR_USERNAME/secure-password-generator-cli.git](https://github.com/YOUR_USERNAME/secure-password-generator-cli.git)
-cd secure-password-generator-cli
-Run the app:
+### Prerequisites
+You only need **Python 3.x** installed on your system.
 
-Bash
-python password_Generation.py
-🛠️ Built With
-Python 3 (Standard Libraries: random, string)
+### Steps:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/secure-password-generator-cli.git
+   cd secure-password-generator-cli
+   ```
+
+2. **Run the app:**
+   ```bash
+   python password_Generation.py
+   ```
+
+---
+
+## 🛠️ Built With
+* **Python 3** (Standard Libraries: `random`, `string`)
